@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.UUID</OriginalElement>
+  <nodes>
+    <node x="333.0" y="380.0">java.util.Observer</node>
+    <node x="177.0" y="306.0">java.lang.ThreadLocal</node>
+    <node x="257.5" y="0.0">java.util.Random</node>
+    <node x="0.0" y="153.0">java.lang.Runnable</node>
+    <node x="0.0" y="380.0">java.util.EventObject</node>
+    <node x="17.5" y="0.0">java.util.EventListener</node>
+    <node x="149.0" y="153.0">java.util.StringTokenizer</node>
+    <node x="0.0" y="306.0">java.util.StringJoiner</node>
+    <node x="219.0" y="79.0">java.util.concurrent.ThreadLocalRandom</node>
+    <node x="7.0" y="232.0">java.lang.Thread</node>
+    <node x="170.0" y="380.0">java.util.Observable</node>
+    <node x="0.0" y="79.0">java.util.EventListenerProxy</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.concurrent.ThreadLocalRandom" target="java.util.Random">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Thread" target="java.lang.Runnable">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.EventListenerProxy" target="java.util.EventListener">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="225.5" y="291.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.concurrent.atomic.AtomicBoolean</OriginalElement>
+  <nodes>
+    <node x="247.0" y="148.0">java.util.concurrent.atomic.AtomicStampedReference</node>
+    <node x="163.0" y="518.0">java.util.concurrent.atomic.LongAdder</node>
+    <node x="0.0" y="74.0">java.util.concurrent.atomic.AtomicIntegerFieldUpdater</node>
+    <node x="0.0" y="0.0">java.util.concurrent.atomic.AtomicReferenceFieldUpdater</node>
+    <node x="0.0" y="444.0">java.util.concurrent.atomic.AtomicBoolean</node>
+    <node x="368.0" y="444.0">java.util.concurrent.atomic.DoubleAdder</node>
+    <node x="0.0" y="148.0">java.util.concurrent.atomic.AtomicLongFieldUpdater</node>
+    <node x="268.0" y="74.0">java.util.concurrent.atomic.AtomicMarkableReference</node>
+    <node x="0.0" y="370.0">java.util.concurrent.atomic.AtomicReference</node>
+    <node x="0.0" y="222.0">java.util.concurrent.atomic.AtomicReferenceArray</node>
+    <node x="0.0" y="518.0">java.util.concurrent.atomic.AtomicLong</node>
+    <node x="198.0" y="370.0">java.util.concurrent.atomic.LongAccumulator</node>
+    <node x="184.0" y="444.0">java.util.concurrent.atomic.AtomicInteger</node>
+    <node x="0.0" y="296.0">java.util.concurrent.atomic.DoubleAccumulator</node>
+    <node x="233.0" y="222.0">java.util.concurrent.atomic.AtomicIntegerArray</node>
+    <node x="212.0" y="296.0">java.util.concurrent.atomic.AtomicLongArray</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="247.0" y="794.0" />
+  <SelectedNodes>
+    <node>java.util.concurrent.atomic.AtomicBoolean</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

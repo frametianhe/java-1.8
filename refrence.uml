@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.ref.Finalizer</OriginalElement>
+  <nodes>
+    <node x="325.0" y="79.0">java.lang.ref.PhantomReference</node>
+    <node x="264.75" y="0.0">java.lang.ref.Reference</node>
+    <node x="17.5" y="158.0">java.lang.ref.Finalizer</node>
+    <node x="0.0" y="79.0">java.lang.ref.FinalReference</node>
+    <node x="166.0" y="79.0">java.lang.ref.SoftReference</node>
+    <node x="504.99999999999994" y="79.0">java.lang.ref.WeakReference</node>
+    <node x="0.0" y="232.0">java.lang.ref.ReferenceQueue</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.ref.Finalizer" target="java.lang.ref.FinalReference">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.ref.FinalReference" target="java.lang.ref.Reference">
+      <point x="0.0" y="-14.5" />
+      <point x="73.0" y="49.0" />
+      <point x="278.625" y="49.0" />
+      <point x="-41.625" y="14.5" />
+    </edge>
+    <edge source="java.lang.ref.WeakReference" target="java.lang.ref.Reference">
+      <point x="0.0" y="-14.5" />
+      <point x="574.5" y="49.0" />
+      <point x="361.875" y="49.0" />
+      <point x="41.625" y="14.5" />
+    </edge>
+    <edge source="java.lang.ref.PhantomReference" target="java.lang.ref.Reference">
+      <point x="0.0" y="-14.5" />
+      <point x="405.0" y="59.0" />
+      <point x="334.125" y="59.0" />
+      <point x="13.875" y="14.5" />
+    </edge>
+    <edge source="java.lang.ref.SoftReference" target="java.lang.ref.Reference">
+      <point x="0.0" y="-14.5" />
+      <point x="235.5" y="59.0" />
+      <point x="306.375" y="59.0" />
+      <point x="-13.875" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="73.0" y="-25.5" />
+  <SelectedNodes>
+    <node>java.lang.ref.Finalizer</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

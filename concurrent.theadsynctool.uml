@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.concurrent.AbstractExecutorService</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">java.util.concurrent.CountDownLatch</node>
+    <node x="0.0" y="75.0">java.util.concurrent.CyclicBarrier</node>
+    <node x="0.0" y="150.0">java.util.concurrent.Semaphore</node>
+    <node x="165.0" y="225.0">java.util.concurrent.Phaser</node>
+    <node x="0.0" y="225.0">java.util.concurrent.Exchanger</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0372427983539094" x="524.0" y="300.0" />
+  <SelectedNodes>
+    <node>java.util.concurrent.CountDownLatch</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

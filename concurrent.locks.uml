@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.concurrent.locks.AbstractOwnableSynchronizer</OriginalElement>
+  <nodes>
+    <node x="197.0" y="310.0">java.util.concurrent.locks.LockSupport</node>
+    <node x="308.0" y="80.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+    <node x="181.0" y="465.0">java.util.concurrent.locks.Condition</node>
+    <node x="36.0" y="310.0">java.util.concurrent.locks.Lock</node>
+    <node x="0.0" y="390.0">java.util.concurrent.locks.ReentrantLock</node>
+    <node x="0.0" y="235.0">java.util.concurrent.locks.ReentrantReadWriteLock</node>
+    <node x="158.0" y="0.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+    <node x="0.0" y="80.0">java.util.concurrent.locks.AbstractQueuedLongSynchronizer</node>
+    <node x="36.0" y="155.0">java.util.concurrent.locks.ReadWriteLock</node>
+    <node x="0.0" y="465.0">java.util.concurrent.locks.StampedLock</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.concurrent.locks.AbstractQueuedLongSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+      <point x="0.0" y="-15.0" />
+      <point x="144.0" y="55.0" />
+      <point x="224.0" y="55.0" />
+      <point x="-66.0" y="15.0" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.Lock">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantReadWriteLock" target="java.util.concurrent.locks.ReadWriteLock">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+      <point x="0.0" y="-15.0" />
+      <point x="436.0" y="55.0" />
+      <point x="356.0" y="55.0" />
+      <point x="66.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="282.0" y="247.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.nio.Buffer</OriginalElement>
+  <nodes>
+    <node x="1471.5" y="455.0">java.nio.channels.AsynchronousServerSocketChannel</node>
+    <node x="0.0" y="1462.0">java.nio.file.FileTreeWalker</node>
+    <node x="155.0" y="618.0">java.nio.FloatBuffer</node>
+    <node x="358.0" y="1388.0">java.nio.charset.spi.CharsetProvider</node>
+    <node x="964.0" y="1536.0">java.nio.file.attribute.FileTime</node>
+    <node x="0.0" y="1087.0">java.nio.file.attribute.DosFileAttributeView</node>
+    <node x="603.5" y="776.0">java.nio.DirectByteBuffer</node>
+    <node x="0.0" y="1314.0">java.nio.CharBufferSpliterator</node>
+    <node x="536.7222222222222" y="618.0">java.nio.ByteBuffer</node>
+    <node x="1298.0" y="326.0">java.nio.channels.AsynchronousByteChannel</node>
+    <node x="1090.0" y="1536.0">java.nio.channels.FileLock</node>
+    <node x="1312.0" y="247.0">java.nio.channels.AsynchronousChannel</node>
+    <node x="291.0" y="1536.0">java.nio.file.WatchKey</node>
+    <node x="1112.625" y="850.0">java.nio.file.DirectoryStream</node>
+    <node x="180.0" y="1388.0">java.nio.channels.spi.SelectorProvider</node>
+    <node x="456.65382882882864" y="455.0">java.nio.channels.SocketChannel</node>
+    <node x="16.0" y="618.0">java.nio.IntBuffer</node>
+    <node x="1091.625" y="929.0">java.nio.file.SecureDirectoryStream</node>
+    <node x="1074.0" y="697.0">java.nio.HeapShortBuffer</node>
+    <node x="66.625" y="1008.0">java.nio.file.attribute.BasicFileAttributeView</node>
+    <node x="389.0" y="1161.0">java.nio.file.Watchable</node>
+    <node x="327.0" y="1462.0">java.nio.file.PathMatcher</node>
+    <node x="908.625" y="929.0">java.nio.file.attribute.DosFileAttributes</node>
+    <node x="266.25" y="247.0">java.nio.channels.ByteChannel</node>
+    <node x="530.875" y="168.0">java.nio.channels.spi.AbstractInterruptibleChannel</node>
+    <node x="407.5" y="1240.0">java.nio.file.Path</node>
+    <node x="531.0" y="1161.0">java.nio.channels.spi.AsynchronousChannelProvider</node>
+    <node x="639.375" y="0.0">java.nio.channels.Channel</node>
+    <node x="369.0" y="1087.0">java.nio.file.attribute.AclFileAttributeView</node>
+    <node x="741.625" y="929.0">java.nio.file.attribute.PosixFileAttributes</node>
+    <node x="855.7222222222222" y="618.0">java.nio.CharBuffer</node>
+    <node x="308.625" y="929.0">java.nio.file.attribute.FileAttributeView</node>
+    <node x="482.0" y="1462.0">java.nio.file.attribute.FileAttribute</node>
+    <node x="534.0" y="1388.0">java.nio.charset.CharsetDecoder</node>
+    <node x="149.0" y="1536.0">java.nio.file.FileSystem</node>
+    <node x="288.625" y="1008.0">java.nio.file.attribute.FileOwnerAttributeView</node>
+    <node x="0.0" y="697.0">java.nio.HeapIntBuffer</node>
+    <node x="801.0" y="1314.0">java.nio.charset.StandardCharsets</node>
+    <node x="0.0" y="1388.0">java.nio.file.spi.FileTypeDetector</node>
+    <node x="431.0" y="1536.0">java.nio.ByteOrder</node>
+    <node x="193.0" y="326.0">java.nio.channels.SeekableByteChannel</node>
+    <node x="710.0" y="1388.0">java.nio.charset.CharsetEncoder</node>
+    <node x="799.0" y="1161.0">java.nio.channels.AsynchronousChannelGroup</node>
+    <node x="932.0" y="326.0">java.nio.channels.NetworkChannel</node>
+    <node x="930.0" y="455.0">java.nio.channels.MulticastChannel</node>
+    <node x="1090.0" y="1462.0">java.nio.file.CopyOption</node>
+    <node x="989.0" y="1314.0">java.nio.file.CopyMoveHelper</node>
+    <node x="0.0" y="1240.0">java.nio.channels.spi.AbstractSelectionKey</node>
+    <node x="180.0" y="1087.0">java.nio.file.attribute.PosixFileAttributeView</node>
+    <node x="235.5" y="1161.0">java.nio.channels.Selector</node>
+    <node x="1090.0" y="618.0">java.nio.ShortBuffer</node>
+    <node x="1086.0" y="326.0">java.nio.channels.AsynchronousFileChannel</node>
+    <node x="608.0" y="1314.0">java.nio.file.spi.FileSystemProvider</node>
+    <node x="640.0" y="326.0">java.nio.channels.spi.AbstractSelectableChannel</node>
+    <node x="209.0" y="1240.0">java.nio.channels.spi.AbstractSelector</node>
+    <node x="209.0" y="1314.0">java.nio.file.attribute.PosixFilePermissions</node>
+    <node x="1055.0" y="1161.0">java.nio.file.StandardWatchEventKinds</node>
+    <node x="601.875" y="89.0">java.nio.channels.InterruptibleChannel</node>
+    <node x="765.0" y="697.0">java.nio.StringCharBuffer</node>
+    <node x="634.0" y="1462.0">java.nio.charset.CoderResult</node>
+    <node x="1216.0" y="1536.0">java.nio.charset.Charset</node>
+    <node x="292.0" y="697.0">java.nio.HeapLongBuffer</node>
+    <node x="555.75" y="529.0">java.nio.Buffer</node>
+    <node x="1057.0" y="1388.0">java.nio.file.FileTreeIterator</node>
+    <node x="139.0" y="697.0">java.nio.HeapFloatBuffer</node>
+    <node x="886.0" y="1388.0">java.nio.file.TempFileHelper</node>
+    <node x="1237.5" y="455.0">java.nio.channels.AsynchronousSocketChannel</node>
+    <node x="216.0" y="1610.0">java.nio.channels.Pipe</node>
+    <node x="0.0" y="326.0">java.nio.channels.ScatteringByteChannel</node>
+    <node x="113.90382882882864" y="168.0">java.nio.channels.ReadableByteChannel</node>
+    <node x="705.0" y="1536.0">java.nio.file.FileStore</node>
+    <node x="112.0" y="1610.0">java.nio.file.Files</node>
+    <node x="786.0" y="1462.0">java.nio.file.OpenOption</node>
+    <node x="26.5" y="1161.0">java.nio.channels.SelectionKey</node>
+    <node x="571.0" y="1536.0">java.nio.channels.Channels</node>
+    <node x="938.0" y="1462.0">java.nio.file.WatchEvent</node>
+    <node x="1247.0" y="618.0">java.nio.DoubleBuffer</node>
+    <node x="413.0" y="1314.0">java.nio.channels.CompletionHandler</node>
+    <node x="404.875" y="850.0">java.nio.file.attribute.AttributeView</node>
+    <node x="484.625" y="1008.0">java.nio.file.attribute.UserDefinedFileAttributeView</node>
+    <node x="835.0" y="1536.0">java.nio.file.attribute.AclEntry</node>
+    <node x="822.875" y="850.0">java.nio.file.attribute.BasicFileAttributes</node>
+    <node x="747.0" y="455.0">java.nio.channels.ServerSocketChannel</node>
+    <node x="1231.0" y="697.0">java.nio.HeapDoubleBuffer</node>
+    <node x="166.0" y="1462.0">java.nio.file.WatchService</node>
+    <node x="922.0" y="697.0">java.nio.HeapCharBuffer</node>
+    <node x="666.5" y="247.0">java.nio.channels.SelectableChannel</node>
+    <node x="0.0" y="1610.0">java.nio.file.Paths</node>
+    <node x="331.75" y="168.0">java.nio.channels.WritableByteChannel</node>
+    <node x="446.0" y="697.0">java.nio.HeapByteBuffer</node>
+    <node x="308.0" y="618.0">java.nio.LongBuffer</node>
+    <node x="464.625" y="929.0">java.nio.file.attribute.FileStoreAttributeView</node>
+    <node x="233.65382882882864" y="455.0">java.nio.channels.FileChannel</node>
+    <node x="0.0" y="1536.0">java.nio.file.FileSystems</node>
+    <node x="393.5" y="326.0">java.nio.channels.GatheringByteChannel</node>
+    <node x="597.0" y="697.0">java.nio.MappedByteBuffer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.nio.HeapShortBuffer" target="java.nio.ShortBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.DosFileAttributeView" target="java.nio.file.attribute.BasicFileAttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="80.0" y="1062.0" />
+      <point x="108.875" y="1062.0" />
+      <point x="-42.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.WritableByteChannel" target="java.nio.channels.Channel">
+      <point x="0.0" y="-14.5" />
+      <point x="412.25" y="59.0" />
+      <point x="656.9464285714286" y="59.0" />
+      <point x="-23.428571428571445" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapIntBuffer" target="java.nio.IntBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.DirectByteBuffer" target="java.nio.MappedByteBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.InterruptibleChannel" target="java.nio.channels.Channel">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.FloatBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="205.5" y="588.0" />
+      <point x="570.9642857142857" y="588.0" />
+      <point x="-20.285714285714334" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SelectableChannel" target="java.nio.channels.spi.AbstractInterruptibleChannel">
+      <point x="-36.0" y="-14.5" />
+      <point x="702.5" y="222.0" />
+      <point x="688.375" y="222.0" />
+      <point x="52.5" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.DosFileAttributes" target="java.nio.file.attribute.BasicFileAttributes">
+      <point x="0.0" y="-14.5" />
+      <point x="977.625" y="904.0" />
+      <point x="933.125" y="904.0" />
+      <point x="36.75" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SeekableByteChannel" target="java.nio.channels.ByteChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="275.0" y="301.0" />
+      <point x="293.75" y="301.0" />
+      <point x="-27.5" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.FileChannel" target="java.nio.channels.SeekableByteChannel">
+      <point x="-12.75" y="-14.5" />
+      <point x="271.90382882882864" y="435.0" />
+      <point x="275.0" y="435.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapCharBuffer" target="java.nio.CharBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="988.0" y="672.0" />
+      <point x="930.7222222222222" y="672.0" />
+      <point x="25.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SelectableChannel" target="java.nio.channels.Channel">
+      <point x="36.0" y="-14.5" />
+      <point x="774.5" y="69.0" />
+      <point x="692.0892857142858" y="69.0" />
+      <point x="11.71428571428578" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SocketChannel" target="java.nio.channels.spi.AbstractSelectableChannel">
+      <point x="24.799999999999955" y="-14.5" />
+      <point x="543.4538288288286" y="415.0" />
+      <point x="689.25" y="415.0" />
+      <point x="-49.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.spi.AbstractSelectionKey" target="java.nio.channels.SelectionKey">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.IntBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="59.5" y="578.0" />
+      <point x="560.8214285714286" y="578.0" />
+      <point x="-30.428571428571445" y="14.5" />
+    </edge>
+    <edge source="java.nio.DoubleBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="1304.0" y="578.0" />
+      <point x="621.6785714285714" y="578.0" />
+      <point x="30.428571428571445" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.FileChannel" target="java.nio.channels.ScatteringByteChannel">
+      <point x="-38.25" y="-14.5" />
+      <point x="246.40382882882864" y="435.0" />
+      <point x="43.25" y="435.0" />
+      <point x="-43.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousChannel" target="java.nio.channels.Channel">
+      <point x="0.0" y="-14.5" />
+      <point x="1398.0" y="49.0" />
+      <point x="715.5178571428571" y="49.0" />
+      <point x="35.14285714285711" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.NetworkChannel" target="java.nio.channels.Channel">
+      <point x="0.0" y="-14.5" />
+      <point x="999.0" y="59.0" />
+      <point x="703.8035714285713" y="59.0" />
+      <point x="23.42857142857133" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousSocketChannel" target="java.nio.channels.NetworkChannel">
+      <point x="-53.5" y="-14.5" />
+      <point x="1291.0" y="435.0" />
+      <point x="1025.8" y="435.0" />
+      <point x="26.799999999999955" y="14.5" />
+    </edge>
+    <edge source="java.nio.CharBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="905.7222222222222" y="598.0" />
+      <point x="601.3928571428571" y="598.0" />
+      <point x="10.14285714285711" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapFloatBuffer" target="java.nio.FloatBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousServerSocketChannel" target="java.nio.channels.AsynchronousChannel">
+      <point x="63.25" y="-14.5" />
+      <point x="1661.25" y="301.0" />
+      <point x="1455.3333333333335" y="301.0" />
+      <point x="57.33333333333337" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.BasicFileAttributeView" target="java.nio.file.attribute.FileAttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="151.125" y="983.0" />
+      <point x="331.2916666666667" y="983.0" />
+      <point x="-45.333333333333314" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.FileAttributeView" target="java.nio.file.attribute.AttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="376.625" y="904.0" />
+      <point x="433.875" y="904.0" />
+      <point x="-29.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.spi.AbstractSelector" target="java.nio.channels.Selector">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.MappedByteBuffer" target="java.nio.ByteBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="671.0" y="672.0" />
+      <point x="610.9722222222222" y="672.0" />
+      <point x="24.75" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousSocketChannel" target="java.nio.channels.AsynchronousByteChannel">
+      <point x="53.5" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SocketChannel" target="java.nio.channels.ScatteringByteChannel">
+      <point x="-49.59999999999991" y="-14.5" />
+      <point x="469.0538288288287" y="385.0" />
+      <point x="129.75" y="385.0" />
+      <point x="43.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ByteChannel" target="java.nio.channels.WritableByteChannel">
+      <point x="27.5" y="-14.5" />
+      <point x="348.75" y="222.0" />
+      <point x="372.0" y="222.0" />
+      <point x="-40.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapDoubleBuffer" target="java.nio.DoubleBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ReadableByteChannel" target="java.nio.channels.Channel">
+      <point x="0.0" y="-14.5" />
+      <point x="196.40382882882864" y="49.0" />
+      <point x="645.2321428571429" y="49.0" />
+      <point x="-35.14285714285711" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SocketChannel" target="java.nio.channels.NetworkChannel">
+      <point x="49.59999999999991" y="-14.5" />
+      <point x="568.2538288288285" y="425.0" />
+      <point x="945.4" y="425.0" />
+      <point x="-53.60000000000002" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SocketChannel" target="java.nio.channels.GatheringByteChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="518.6538288288286" y="395.0" />
+      <point x="521.75" y="395.0" />
+      <point x="42.75" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.GatheringByteChannel" target="java.nio.channels.WritableByteChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="479.0" y="222.0" />
+      <point x="452.5" y="222.0" />
+      <point x="40.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ScatteringByteChannel" target="java.nio.channels.ReadableByteChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="86.5" y="222.0" />
+      <point x="155.15382882882864" y="222.0" />
+      <point x="-41.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.PosixFileAttributeView" target="java.nio.file.attribute.FileOwnerAttributeView">
+      <point x="42.25" y="-14.5" />
+      <point x="306.75" y="1062.0" />
+      <point x="332.625" y="1062.0" />
+      <point x="-44.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.SocketChannel" target="java.nio.channels.ByteChannel">
+      <point x="-24.799999999999955" y="-14.5" />
+      <point x="493.8538288288287" y="375.0" />
+      <point x="367.5" y="375.0" />
+      <point x="367.5" y="301.0" />
+      <point x="348.75" y="301.0" />
+      <point x="27.5" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.SecureDirectoryStream" target="java.nio.file.DirectoryStream">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousByteChannel" target="java.nio.channels.AsynchronousChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.Path" target="java.nio.file.Watchable">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.FileChannel" target="java.nio.channels.GatheringByteChannel">
+      <point x="12.75" y="-14.5" />
+      <point x="297.40382882882864" y="395.0" />
+      <point x="436.25" y="395.0" />
+      <point x="-42.75" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.spi.AbstractInterruptibleChannel" target="java.nio.channels.InterruptibleChannel">
+      <point x="52.5" y="-14.5" />
+      <point x="688.375" y="143.0" />
+      <point x="680.375" y="143.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.LongBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="359.0" y="598.0" />
+      <point x="581.1071428571429" y="598.0" />
+      <point x="-10.14285714285711" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.UserDefinedFileAttributeView" target="java.nio.file.attribute.FileAttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="590.625" y="983.0" />
+      <point x="421.95833333333337" y="983.0" />
+      <point x="45.33333333333337" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ServerSocketChannel" target="java.nio.channels.NetworkChannel">
+      <point x="40.75" y="-14.5" />
+      <point x="869.25" y="435.0" />
+      <point x="972.2" y="435.0" />
+      <point x="-26.799999999999955" y="14.5" />
+    </edge>
+    <edge source="java.nio.ByteBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="586.2222222222222" y="598.0" />
+      <point x="591.25" y="598.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.StringCharBuffer" target="java.nio.CharBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="833.5" y="672.0" />
+      <point x="880.7222222222222" y="672.0" />
+      <point x="-25.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapByteBuffer" target="java.nio.ByteBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="511.5" y="672.0" />
+      <point x="561.4722222222222" y="672.0" />
+      <point x="-24.75" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ByteChannel" target="java.nio.channels.ReadableByteChannel">
+      <point x="-27.5" y="-14.5" />
+      <point x="293.75" y="222.0" />
+      <point x="237.65382882882864" y="222.0" />
+      <point x="41.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.FileStoreAttributeView" target="java.nio.file.attribute.AttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="549.125" y="904.0" />
+      <point x="491.875" y="904.0" />
+      <point x="29.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.spi.AbstractInterruptibleChannel" target="java.nio.channels.Channel">
+      <point x="-52.5" y="-14.5" />
+      <point x="583.375" y="143.0" />
+      <point x="591.375" y="143.0" />
+      <point x="591.375" y="69.0" />
+      <point x="668.6607142857143" y="69.0" />
+      <point x="-11.714285714285666" y="14.5" />
+    </edge>
+    <edge source="java.nio.ShortBuffer" target="java.nio.Buffer">
+      <point x="0.0" y="-14.5" />
+      <point x="1142.5" y="588.0" />
+      <point x="611.5357142857143" y="588.0" />
+      <point x="20.285714285714334" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.FileOwnerAttributeView" target="java.nio.file.attribute.FileAttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousServerSocketChannel" target="java.nio.channels.NetworkChannel">
+      <point x="-63.25" y="-14.5" />
+      <point x="1534.75" y="425.0" />
+      <point x="1052.6" y="425.0" />
+      <point x="53.60000000000002" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.MulticastChannel" target="java.nio.channels.NetworkChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.HeapLongBuffer" target="java.nio.LongBuffer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.AsynchronousFileChannel" target="java.nio.channels.AsynchronousChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="1182.0" y="301.0" />
+      <point x="1340.6666666666665" y="301.0" />
+      <point x="-57.33333333333334" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.PosixFileAttributeView" target="java.nio.file.attribute.BasicFileAttributeView">
+      <point x="-42.25" y="-14.5" />
+      <point x="222.25" y="1062.0" />
+      <point x="193.375" y="1062.0" />
+      <point x="42.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.ServerSocketChannel" target="java.nio.channels.spi.AbstractSelectableChannel">
+      <point x="-40.75" y="-14.5" />
+      <point x="49.25" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.AclFileAttributeView" target="java.nio.file.attribute.FileOwnerAttributeView">
+      <point x="0.0" y="-14.5" />
+      <point x="446.5" y="1062.0" />
+      <point x="420.625" y="1062.0" />
+      <point x="44.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.spi.AbstractSelectableChannel" target="java.nio.channels.SelectableChannel">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.nio.channels.FileChannel" target="java.nio.channels.spi.AbstractInterruptibleChannel">
+      <point x="38.25" y="-14.5" />
+      <point x="322.90382882882864" y="405.0" />
+      <point x="583.375" y="405.0" />
+      <point x="-52.5" y="14.5" />
+    </edge>
+    <edge source="java.nio.file.attribute.PosixFileAttributes" target="java.nio.file.attribute.BasicFileAttributes">
+      <point x="0.0" y="-14.5" />
+      <point x="815.125" y="904.0" />
+      <point x="859.625" y="904.0" />
+      <point x="-36.75" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.997227245328511" x="621.9435444874275" y="279.4161629593811" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
